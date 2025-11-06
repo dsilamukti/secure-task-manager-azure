@@ -21,7 +21,7 @@ Aplikasi ini menerapkan prinsip _Security-by-Design_ dan _Defense-in-Depth_ mela
 ---
 
 ☁️ Arsitektur Sistem
-![Arsitektur Sistem](docs/gambar-arsitektur.png)
+![Arsitektur Sistem](https://drive.google.com/drive/folders/1SwQXxEjaZbZy-jCXkU0WxopyC-LhLVAm)
 
 Alur sistem:
 
@@ -67,7 +67,7 @@ Langkah-langkah singkat:
 ---
 
 📊 Hasil Monitoring
-![Monitoring Result](docs/hasil-monitoring.png)
+![Monitoring Result](https://drive.google.com/drive/folders/1SwQXxEjaZbZy-jCXkU0WxopyC-LhLVAm)
 
 > _Grafik menunjukkan response time rata-rata di bawah 300 ms dengan tingkat keberhasilan request 100%._
 
